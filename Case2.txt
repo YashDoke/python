@@ -1,0 +1,34 @@
+{
+    "userId": 22,
+    "name": "ADANI ENTERPRISES LIMITED",
+    "groupId": "391523",
+    "cccId": "1829205031",
+    "schemeName": "Fresh LAP",
+    "loanApplicationId": "MLAP00000500239",
+    "loanTenure": "99",
+    "loanTenureType": "Regular EMI",
+    "branch": "Aurangabad Jalna Road",
+    "coApplicants": [
+        {
+            "name": "GANESH SURESH AGAWANE",
+            "cccId": "1829508602"
+        }
+    ],
+    "productCategory": "NON_REVOLVING",
+    "riskCategory": "Salaried Employees"
+}
+
+
+{
+    "status": "BAD_REQUEST",
+    "message": null,
+    "timeStamp": "2024-06-07T23:11:53.090888222",
+    "finfluxTraceId": null,
+    "errorData": [
+        {
+            "errorCode": "error.msg.invalid.group.id",
+            "errorMessage": "Invalid groupId passed. 391523 does not exist.",
+            "detail": "Pass a valid groupId"
+        }
+    ]
+}

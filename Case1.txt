@@ -1,0 +1,35 @@
+{
+    "userId": 22,
+    "name": "AIR MANAS AIR COMPANY LIMITED LIABILITY COMPANY",
+    "groupId": "391523",
+    "cccId": "1829366510",
+    "schemeName": "Fresh LAP",
+    "loanApplicationId": "STSL00000500199",
+    "loanTenure": "99",
+    "loanTenureType": "Regular EMI",
+    "branch": "Dehradun",
+    "coApplicants": [
+        {
+            "name": "ABDULSAB PHAKARUSAB ARAGANJI",
+            "cccId": "1829503024"
+        }
+    ],
+    "productCategory": "NON_REVOLVING",
+    "riskCategory": "Retail Shops"
+}
+
+
+{
+    "status": "BAD_REQUEST",
+    "message": null,
+    "timeStamp": "2024-06-07T23:06:20.174749689",
+    "finfluxTraceId": null,
+    "errorData": [
+        {
+            "errorCode": "error.msg.invalid.group.id",
+            "errorMessage": "Invalid groupId passed. 391523 does not exist.",
+            "detail": "Pass a valid groupId"
+        }
+    ]
+}
+
